@@ -1,2 +1,8 @@
-# chess-olympians
-Chess Olympians project from EECS22L
+
+Chess Olympian
+by
+Milk & Dim Sum
+
+To install: read INSTALL
+
+To play the game: read doc/Chess.pdf

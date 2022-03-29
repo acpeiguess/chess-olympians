@@ -1,0 +1,25 @@
+
+Chess Olympian
+by
+Milk & Dim Sum
+
+Installation:
+
+  Copy this folder and subdirectories to desired location.
+
+Run the game with:
+     There is a linked file created
+    ./chess
+    
+    or
+    
+    ./bin/chess
+    
+    
+To uninstall:
+  Simply delete this folder and all of it's contents:
+    
+    //goto parent directory
+    cd ..
+    //delete the directory
+    rmdir --ignore-fail-on-non-empty <directory>
